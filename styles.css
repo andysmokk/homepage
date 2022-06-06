@@ -187,12 +187,12 @@ body {
     margin-bottom: 20px;
 }
 
-.experiences__company-header-durability {
+/* .experiences__company-header-durability {
     color: var(--durability-text-color);
     text-align: left;
     margin-bottom: 10px;
     font-size: 15px;
-}
+} */
 
 .experiences__company-header-name {
     color: var(--primary-text-color);
